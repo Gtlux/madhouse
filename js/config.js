@@ -71,6 +71,7 @@ var l_bgImages = [
 	"anime-boy-psycho-tongue-anime-10566.jpg"
 	"bf765e6954e795d246adb231e39a2f16-d6an9d3.jpg"
 	"cynthia-leman-mob-psycho100-gratitude-leman-cynthia-1920-1080.jpg"
+	"maxresdefault.jpg"
 	
 	
 ];
