@@ -18,7 +18,7 @@ var l_displayMapGamemode = true;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "MadHouse";
 
 /*Use a video for the background?
 Otherwise it will use images
