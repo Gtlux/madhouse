@@ -18,7 +18,7 @@ var l_displayMapGamemode = true;
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "MadHouse";
 
 /*Use a video for the background?
 Otherwise it will use images
@@ -126,9 +126,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
+	"Наслаждайтесь игрой на нашем сервере",
+	"Спасибо за то, что вы с нами! :) ",
+	"Вы нашли ошибки? Скажите Gtlux'у",
 ];
 
 /*Random message order?
