@@ -66,9 +66,13 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"608333.jpg",
+	"7f561da1cae936756060693b1f1a1c19.jpg",
+	"anime-boy-psycho-tongue-anime-10566.jpg"
+	"bf765e6954e795d246adb231e39a2f16-d6an9d3.jpg"
+	"cynthia-leman-mob-psycho100-gratitude-leman-cynthia-1920-1080.jpg"
+	
+	
 ];
 
 /*(Image-background only)
