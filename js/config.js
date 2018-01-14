@@ -111,6 +111,7 @@ Add as many youtube ids or ogg files you want
 var l_musicPlaylist = [
 	{youtube: "DcUShsmww6E", name: "Porcelain Black - Pretty Little Psycho"},
 	{youtube: "6-2jNiVK86A", name: "Blue Stahli - ULTRAnumb"},
+	{youtube: "8ahN0f0r9JQ", name: "Get Scared Sarcasm Lyric Video Official"},
 ];
 
 /*Random music order?
