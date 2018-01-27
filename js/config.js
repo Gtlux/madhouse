@@ -112,6 +112,7 @@ var l_musicPlaylist = [
 	{youtube: "DcUShsmww6E", name: "Porcelain Black - Pretty Little Psycho"},
 	{youtube: "6-2jNiVK86A", name: "Blue Stahli - ULTRAnumb"},
 	{youtube: "8ahN0f0r9JQ", name: "Get Scared Sarcasm Lyric Video Official"},
+	{youtube: "CGrfF7YNobc", name: "Бездомный Бог. [OP-2][RUS]"},
 ];
 
 /*Random music order?
