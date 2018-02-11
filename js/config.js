@@ -122,7 +122,14 @@ var l_musicPlaylist = [
 	{youtube: "mb-XCaA2HZs", name: "Rick and Morty - Evil Morty Theme Song (Trap Remix)"},
 	{youtube: "cvq7Jy-TFAU", name: "[DnB] - Feint - Snake Eyes (feat. CoMa) [Monstercat Release]"},
 	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons (Remix) - Extended Mix"},
-	{youtube: "bM7SZ5SBzyY", name: "Alan Walker - Fade [NCS Release]"},
+	{youtube: "z-NuxWkYtlI", name: "Re:Zero ED / Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』 ENG SUB"},
+	{youtube: "tOkdSj8Iz0I", name: "Discord - The Living Tombstone - Lyrics"},
+	{youtube: "cZ4Petds3LQ", name: "幼女戦記 ED / Youjo Senki ending Full『Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los!』ENG SUB"},
+	{youtube: "j6TsX_7xlkU", name: "オーバーロード ED | Overlord Ending - FULL"},
+	{youtube: "p-o_bMkzOW0", name: "LUVORATORRRRRY! ver れをる feat.nqrse"},
+	{youtube: "yzC4hFK5P3g", name: "きゃりーぱみゅぱみゅ - PONPONPON , Kyary Pamyu Pamyu - PONPONPON"},
+	{youtube: "iB3fZGTm6a8&t=0m3s", name: "The Russian - CBID [PPAP PARODY]"},
+	{youtube: "ixSqc8t6xnU", name: "pedo bear song"},
 ];
 
 /*Random music order?
