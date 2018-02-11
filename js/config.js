@@ -117,7 +117,6 @@ var l_musicPlaylist = [
 	{youtube: "cvq7Jy-TFAU", name: "[DnB] - Feint - Snake Eyes (feat. CoMa) [Monstercat Release]"},
 	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons (Remix) - Extended Mix"},
 	{youtube: "bM7SZ5SBzyY", name: "Alan Walker - Fade [NCS Release]"},
-	{youtube: "QJelsOHe6xk&t=0m9s", name: "deadmau5 - Professional Griefers (featuring Gerard Way) (Cover Art)"},
 ];
 
 /*Random music order?
