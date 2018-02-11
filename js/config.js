@@ -72,9 +72,9 @@ var l_bgImages = [
 	"bf765e6954e795d246adb231e39a2f16-d6an9d3.png",
 	"ynthia-leman-mob-psycho100-gratitude-leman-cynthia-1920-1080.jpg",
 	"maxresdefault.jpg",
-	"01",
-	"02",
-	"03"
+	"01.jpg",
+	"02".jpg,
+	"03.jpg"
 ];
 
 /*(Image-background only)
