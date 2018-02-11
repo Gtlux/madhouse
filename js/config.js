@@ -23,7 +23,7 @@ var l_serverName = "MadHouse";
 /*Use a video for the background?
 Otherwise it will use images
 'true' or 'false'*/
-var l_bgVideo = true;
+var l_bgVideo = false;
 
 /*Default available videos:
 "aurora.webm"
