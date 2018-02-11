@@ -50,7 +50,7 @@ var l_bgVideo = true;
 You can add your own video backgrounds
 Just make sure they are using webm VP8 format 
 (Place the videos in the backgrounds/videos folder)*/
-var l_background = "bluefall.webm";
+var l_background = "coldnight.webm";
 
 /*(Image-background only)
 Enable map-based background image?
