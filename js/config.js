@@ -128,7 +128,6 @@ var l_musicPlaylist = [
 	{youtube: "j6TsX_7xlkU", name: "オーバーロード ED | Overlord Ending - FULL"},
 	{youtube: "p-o_bMkzOW0", name: "LUVORATORRRRRY! ver れをる feat.nqrse"},
 	{youtube: "yzC4hFK5P3g", name: "きゃりーぱみゅぱみゅ - PONPONPON , Kyary Pamyu Pamyu - PONPONPON"},
-	{youtube: "iB3fZGTm6a8&t=0m3s", name: "The Russian - CBID [PPAP PARODY]"},
 	{youtube: "YgGzAKP_HuM", name: "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband"},
 	{youtube: "F5bIdqZHEOo", name: "DAOKO 『かけてあげる』Music Video［HD］"},
 	{youtube: "Y3xehyYXbJw", name: "DAOKO 『水星』 Music Video［HD］"},
@@ -136,7 +135,6 @@ var l_musicPlaylist = [
 	{youtube: "gu-u6I2a968", name: "Owari no Seraph Ending FULL - ｢scaPEGoat｣ » 終わりのセラフ ED"},
 	{youtube: "2e0Cdi_TLY8", name: "Aimer - Through My Blood『Kabaneri of the Iron Fortress』"},
 	{youtube: "HdQCWXh3XXU", name: "Re:Zero kara Hajimeru Isekai Seikatsu Ending FULL - Re：ゼロから始める異世界生活 ED 「STYX HELIX」"},
-	{youtube: "C7cPUez_7v8&t=0m4s", name: "Saga of Tanya the Evil - Jingo Jungle (Opening) | ENGLISH ver | AmaLee"},
 	{youtube: "sF0QLtk3YH0", name: "EGOIST - Namae No Nai Kaibutsu"},
 	{youtube: "irMR7DqMRHA", name: "Fate - Stay Night - Unlimited Blade Works opening2 (60 fps)"},
 ];
