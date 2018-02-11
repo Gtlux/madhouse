@@ -87,7 +87,6 @@ var l_bgImages = [
 	"15.jpg",
 	"16.jpg",
 	"17.jpg",
-	"18.jpg",
 	"19.jpg",
 	"20.jpg",
 	"21.jpg",
