@@ -169,6 +169,10 @@ var l_musicPlaylist = [
 	{youtube: "HdQCWXh3XXU", name: "Re:Zero kara Hajimeru Isekai Seikatsu Ending FULL - Re：ゼロから始める異世界生活 ED 「STYX HELIX」"},
 	{youtube: "sF0QLtk3YH0", name: "EGOIST - Namae No Nai Kaibutsu"},
 	{youtube: "irMR7DqMRHA", name: "Fate - Stay Night - Unlimited Blade Works opening2 (60 fps)"},
+	{youtube: "dScB9Jm1GjI&t", name: "Jet Fly feat Nika p m I Can FlyDUBSTEP"},
+	{youtube: "EYjXzAh61Tc", name: "Jet Fly feat Nika PM - Aeroport(Airport)"},
+	{youtube: "jn40gqhxoSY", name: "Cheat Codes - No Promises ft. Demi Lovato [Official Video]"},
+	{youtube: "kYtGl1dX5qI", name: "will.i.am - Scream & Shout ft. Britney Spears"},
 ];
 
 /*Random music order?
