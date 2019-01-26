@@ -147,6 +147,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
+	{youtube: "dScB9Jm1GjI", name: "Jet Fly feat Nika p m I Can FlyDUBSTEP"},
 ];
 
 /*Random music order?
