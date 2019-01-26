@@ -147,32 +147,6 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{youtube: "DcUShsmww6E", name: "Porcelain Black - Pretty Little Psycho"},
-	{youtube: "6-2jNiVK86A", name: "Blue Stahli - ULTRAnumb"},
-	{youtube: "8ahN0f0r9JQ", name: "Get Scared Sarcasm Lyric Video Official"},
-	{youtube: "pTA0DSfrGZ0", name: "Chaos Chaos (formerly Smoosh) - Do You Feel It?"},
-	{youtube: "mb-XCaA2HZs", name: "Rick and Morty - Evil Morty Theme Song (Trap Remix)"},
-	{youtube: "cvq7Jy-TFAU", name: "[DnB] - Feint - Snake Eyes (feat. CoMa) [Monstercat Release]"},
-	{youtube: "q6-ZGAGcJrk", name: "Spooky Scary Skeletons (Remix) - Extended Mix"},
-	{youtube: "z-NuxWkYtlI", name: "Re:Zero ED / Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』 ENG SUB"},
-	{youtube: "tOkdSj8Iz0I", name: "Discord - The Living Tombstone - Lyrics"},
-	{youtube: "cZ4Petds3LQ", name: "幼女戦記 ED / Youjo Senki ending Full『Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los!』ENG SUB"},
-	{youtube: "j6TsX_7xlkU", name: "オーバーロード ED | Overlord Ending - FULL"},
-	{youtube: "p-o_bMkzOW0", name: "LUVORATORRRRRY! ver れをる feat.nqrse"},
-	{youtube: "yzC4hFK5P3g", name: "きゃりーぱみゅぱみゅ - PONPONPON , Kyary Pamyu Pamyu - PONPONPON"},
-	{youtube: "YgGzAKP_HuM", name: "RASPUTIN - Vladimir Putin - Love The Way You Move (Funk Overload) @slocband"},
-	{youtube: "F5bIdqZHEOo", name: "DAOKO 『かけてあげる』Music Video［HD］"},
-	{youtube: "Y3xehyYXbJw", name: "DAOKO 『水星』 Music Video［HD］"},
-	{youtube: "Q0v3ajXh5S0", name: "Tokyo Ghoul: Unravel - Lyrics"},
-	{youtube: "gu-u6I2a968", name: "Owari no Seraph Ending FULL - ｢scaPEGoat｣ » 終わりのセラフ ED"},
-	{youtube: "2e0Cdi_TLY8", name: "Aimer - Through My Blood『Kabaneri of the Iron Fortress』"},
-	{youtube: "HdQCWXh3XXU", name: "Re:Zero kara Hajimeru Isekai Seikatsu Ending FULL - Re：ゼロから始める異世界生活 ED 「STYX HELIX」"},
-	{youtube: "sF0QLtk3YH0", name: "EGOIST - Namae No Nai Kaibutsu"},
-	{youtube: "irMR7DqMRHA", name: "Fate - Stay Night - Unlimited Blade Works opening2 (60 fps)"},
-	{youtube: "dScB9Jm1GjI", name: "Jet Fly feat Nika p m I Can FlyDUBSTEP"},
-	{youtube: "EYjXzAh61Tc", name: "Jet Fly feat Nika PM - Aeroport(Airport)"},
-	{youtube: "jn40gqhxoSY", name: "Cheat Codes - No Promises ft. Demi Lovato [Official Video]"},
-	{youtube: "kYtGl1dX5qI", name: "will.i.am - Scream & Shout ft. Britney Spears"},
 ];
 
 /*Random music order?
